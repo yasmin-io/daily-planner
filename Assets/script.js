@@ -62,6 +62,6 @@ $(document).ready(function () {
 
   // Using moment.js for time/date instead of native javascript.
   var today = moment();
-  // Using moment.js to display current date at the top of the application page
-  $("#currentDay").text(today.format("dddd, MMMM Do YYYY"));
+  // Using moment.js preset to display current date & time at the top of the application page
+  $("#currentDay").text(today.format("LLLL"));
 });
