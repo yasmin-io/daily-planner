@@ -38,5 +38,6 @@ My current project is working on buidling a Daily Planner for those busy individ
 - [jQueryUI](https://jqueryui.com/checkboxradio/)
 - Moment.js formatting [CheatSheet](https://devhints.io/moment)
 - Button Addons in [Bootstrap](https://getbootstrap.com/docs/4.3/components/input-group/#button-addons) Docs
+- [FontAwesome](https://fontawesome.com/v5.15/icons/save?style=regular) for my 'Save' icons
 
 Copyright © [2021] [Yasmin A]
