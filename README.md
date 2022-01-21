@@ -22,7 +22,9 @@ My current project is working on buidling a Daily Planner for those busy individ
 
 ## Website
 
-> Is currently in the process of being built.
+Link to website: [DailyPlanner](https://yasmin-io.github.io/daily-planner/) | Yasmin A
+
+![WebsiteScreenShot](https://github.com/yasmin-io/daily-planner/blob/1b3123d9d1fbd4db139e3090f5d51d189118a178/Assets/Images/ToDoList.png)
 
 ---
 
